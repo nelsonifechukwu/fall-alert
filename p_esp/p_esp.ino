@@ -3,8 +3,8 @@
 #include <WiFiClient.h>
 //#include <WiFiClientSecure.h>
 
-const char* ssid = "EXPERIMENT";
-const char* password = "Xjok23dl!?ifenel";
+const char* ssid = "***";
+const char* password = "***";
 
 //Don't use https
 String serverName = "http://maker.ifttt.com/trigger/Fall_Detected/with/key/d9OBb_vwlj1VGq7XDfcXkTi0Aq9gARHuLNIq899ev0l";
